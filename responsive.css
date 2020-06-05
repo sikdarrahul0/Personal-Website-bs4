@@ -1,0 +1,94 @@
+@media (max-width: 991px){
+  .nav-item{
+    padding: 0.3rem 0.3rem;
+  }
+  .about{
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .profile-pic{
+    padding-left: 0;
+  }
+  .profile-pic img{
+    margin-left: 0;
+  }
+  .details{
+    padding-left: 0;
+  }
+}
+@media (max-width: 575px){
+  .home-div h1{
+      font-size: 2rem;
+  }
+  .home-div h3{
+      font-size: 1.7rem;
+  }
+}
+@media (min-width: 992px) and (max-width: 1199px){
+.about{
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+}
+.profile-pic{
+  padding-left: 1.2rem;
+}
+.profile-pic img{
+  margin-left: 0.7rem;
+}
+}
+@media (max-width: 1199px){
+  .skill-div{
+    padding-left: 1.4rem;
+  }
+  .skill-star-div{
+    padding-left: 0.5rem;
+  }
+  .le-div{
+    padding-left: 2rem;
+  }
+  .le-star{
+    padding-left: 1rem;
+  }
+}
+@media (max-width: 767px){
+  .star-div-1{
+    padding-left: 3rem;
+    padding-right: 0;
+  }
+  .lb-star{
+    padding-right: 0;
+  }
+
+}
+@media (max-width: 515px){
+  .star-div-1{
+    padding-left: 0.5rem;
+  }
+  .skill-star-div{
+    padding-left: 0.5rem;
+  }
+  .skill-div{
+    padding-right: 0.4rem;
+  }
+  .le-star{
+    padding-left: 1.3rem;
+    padding-right: 0;
+  }
+  .lb-star{
+    padding: 0 0.5rem;
+  }
+  .le-div{
+    padding-right: 0;
+  }
+}
+@media (max-width: 474px){
+  .star-div-1{
+    padding-left: 0rem;
+  }
+  .skill-star-div{
+    padding-left: 0rem;
+  }
+  .skill-div{
+    padding-right: 0;
+  }
+}
