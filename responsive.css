@@ -1,0 +1,191 @@
+@media (max-width: 991px) {
+  .nav-item {
+    padding: 0.3rem 0.3rem;
+  }
+
+  .about {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .profile-pic {
+    padding-left: 0;
+  }
+
+  .profile-pic img {
+    margin-left: 0;
+  }
+
+  .details {
+    padding-left: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .home-div h1 {
+    font-size: 2rem;
+  }
+
+  .home-div h3 {
+    font-size: 1.7rem;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1050px) {
+  .about {
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+  }
+
+  .profile-pic {
+    padding-left: 1.2rem;
+  }
+
+  .profile-pic img {
+    margin-left: 0.7rem;
+  }
+
+  .skill-1 {
+    margin-left: 4rem;
+  }
+
+  .skill-star-1 {
+    margin-left: 4rem;
+  }
+
+  .skill-2 {
+    margin-left: 4rem;
+  }
+
+  .skill-star-2 {
+    margin-left: 4rem;
+  }
+
+  .lb-div {
+    margin-left: 4rem;
+  }
+
+  .lb-star {
+    margin-left: 3rem;
+  }
+
+  .le-div {
+    margin-left: 4rem;
+  }
+
+  .le-star {
+    margin-left: 7rem;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .skill-1 {
+    margin-left: 2rem;
+  }
+
+  .skill-star-1 {
+    margin-left: 2rem;
+  }
+
+  .skill-2 {
+    margin-left: 2rem;
+  }
+
+  .skill-star-2 {
+    margin-left: 2rem;
+  }
+
+  .lb-div {
+    margin-left: 2rem;
+  }
+
+  .lb-star {
+    margin-left: 1rem;
+  }
+
+  .le-div {
+    margin-left: 2rem;
+  }
+
+  .le-star {
+    margin-left: 5rem;
+  }
+}
+
+@media (max-width: 767px) {
+  .le-star {
+    margin-left: 9.5rem;
+  }
+
+  .skill-star-2 {
+    margin-left: 6.5rem;
+  }
+}
+
+@media (max-width: 500px) {
+  .skill-1 {
+    margin-left: 3rem;
+  }
+
+  .skill-star-1 {
+    margin-left: 3rem;
+  }
+
+  .skill-2 {
+    margin-left: 3rem;
+  }
+
+  .skill-star-2 {
+    margin-left: 3.5rem;
+  }
+
+  .lb-div {
+    margin-left: 3rem;
+  }
+
+  .lb-star {
+    margin-left: 2rem;
+  }
+
+  .le-div {
+    margin-left: 3rem;
+  }
+
+  .le-star {
+    margin-left: 6.5rem;
+  }
+}
+
+@media (max-width: 350px) {
+  .skill-1 {
+    margin-left: 1rem;
+  }
+
+  .skill-star-1 {
+    margin-left: 2rem;
+  }
+
+  .skill-2 {
+    margin-left: 1rem;
+  }
+
+  .skill-star-2 {
+    margin-left: 2.5rem;
+  }
+
+  .lb-div {
+    margin-left: 1rem;
+  }
+
+  .lb-star {
+    margin-left: 1rem;
+  }
+
+  .le-div {
+    margin-left: 1rem;
+  }
+
+  .le-star {
+    margin-left: 5.5rem;
+  }
+}
